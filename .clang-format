@@ -1,0 +1,10 @@
+# Defines the Chromium style for automatic reformatting.
+# http://clang.llvm.org/docs/ClangFormatStyleOptions.html
+BasedOnStyle: Chromium
+# Standard: CLS_Cpp17
+SpaceBeforeRangeBasedForLoopColon: true
+AlignConsecutiveAssignments: true
+AlignConsecutiveMacros: true
+AlignEscapedNewlines: true
+AllowShortIfStatementsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: false
