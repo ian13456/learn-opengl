@@ -8,3 +8,4 @@ AlignConsecutiveMacros: true
 AlignEscapedNewlines: true
 AllowShortIfStatementsOnASingleLine: false
 AllowShortFunctionsOnASingleLine: false
+IndentWidth: 4
