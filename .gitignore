@@ -169,4 +169,4 @@ rules.ninja
 !/.github/*.enc
 
 build
-.vscode
+# .vscode
